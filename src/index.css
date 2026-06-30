@@ -1,0 +1,30 @@
+.card{
+    border: 1px solid hsl(0, 0%, 80%);
+    border-radius: 20px;
+    max-width: 250px;
+    box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
+
+
+
+.card .card_img{
+    max-width: 80%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px hsl(0, 0%, 80%);
+    margin-bottom: 5px;
+    height:auto;
+}
+.card .card_title{
+    font-family: Arial, Helvetica, sans-serif ;
+    color: hsl(0,0%,30%);
+
+}
+.card .card_des{
+    font-family: Arial, Helvetica, sans-serif ;
+    color: hsl(0,0%,30%);
+
+}
